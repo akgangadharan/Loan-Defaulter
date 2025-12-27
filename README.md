@@ -124,10 +124,12 @@ The project follows a structured end-to-end data analysis workflow. The major st
 •	Viewing rows, columns, and structure
 
 3. Data Cleaning & Pre-Processing
+   
 •	Handling missing values  
 •	Removing duplicates
 
 5. Feature Engineering
+   
 •	Binning
 •	Value modification
 
