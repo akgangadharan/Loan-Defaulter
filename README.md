@@ -16,9 +16,13 @@ This case study aims to give us an idea of applying EDA in a real business scena
 Key Features in the Dataset
 
 1	SK_ID_CURR	ID of loan in our sample
+
 2	TARGET	Target variable (1 - client with payment difficulties: he/she had late payment more than X days on at least one of the first Y installments of the loan in our sample, 0 - all other cases)
+
 3	NAME_CONTRACT_TYPE	Identification if loan is cash or revolving
+
 4	CODE_GENDER	Gender of the client
+
 5	CNT_CHILDREN	Number of children the client has
 6	AMT_INCOME_TOTAL	Income of the client
 7	AMT_CREDIT	Credit amount of the loan
